@@ -560,100 +560,100 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@parcel/bundler-default@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/bundler-default/-/bundler-default-2.12.0.tgz#b8f6f3fc3f497714bd54e19882aaa116e97df4a4"
-  integrity sha512-3ybN74oYNMKyjD6V20c9Gerdbh7teeNvVMwIoHIQMzuIFT6IGX53PyOLlOKRLbjxMc0TMimQQxIt2eQqxR5LsA==
+"@parcel/bundler-default@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/bundler-default/-/bundler-default-2.0.0-canary.1553.tgz#5d4d6f0906774b5ac930753e975f26be755189b8"
+  integrity sha512-lqPvG96olOlL1fnC/zyAOmk/hq11otJv6VN/y6YPKVNWQBINAD4otzoKySQ3IeHJR24adrKOSjaugaXjYbycxw==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/graph" "3.2.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/graph" "3.2.1-canary.3176+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
-"@parcel/cache@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/cache/-/cache-2.12.0.tgz#b8fd2ea2bc7a2353a9b20344cc191bfb4f8284f3"
-  integrity sha512-FX5ZpTEkxvq/yvWklRHDESVRz+c7sLTXgFuzz6uEnBcXV38j6dMSikflNpHA6q/L4GKkCqRywm9R6XQwhwIMyw==
+"@parcel/cache@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/cache/-/cache-2.0.0-canary.1553.tgz#97ae300da34d57058d686bee3e0f81b49d4ba00d"
+  integrity sha512-2pgnBPNU/BCBNefqiiRV76TALCO37JRYt2kfIbwzt7fFR224Jzbqzaa8Y1BAA7cwiV1eqAwSTNLuzzAlzykzyQ==
   dependencies:
-    "@parcel/fs" "2.12.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     lmdb "2.8.5"
 
-"@parcel/codeframe@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/codeframe/-/codeframe-2.12.0.tgz#9ea75bd7ae6c5f7fadf42a5e64657cf88fdcb29e"
-  integrity sha512-v2VmneILFiHZJTxPiR7GEF1wey1/IXPdZMcUlNXBiPZyWDfcuNgGGVQkx/xW561rULLIvDPharOMdxz5oHOKQg==
+"@parcel/codeframe@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/codeframe/-/codeframe-2.0.0-canary.1553.tgz#b524a374ab8452e8a3beb36478a7513b38d75f34"
+  integrity sha512-ebiEiE/GzzHSX2PCsBxYn8mzRw9hKUBexBl4cskt1WnPsRM/wQahhuy2Y5YzTIHgBh6OyYzNr4kGyL6GZAQFLQ==
   dependencies:
     chalk "^4.1.0"
 
-"@parcel/compressor-raw@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/compressor-raw/-/compressor-raw-2.12.0.tgz#71012b695c870f1d26bfd8d56983c14bf13fd996"
-  integrity sha512-h41Q3X7ZAQ9wbQ2csP8QGrwepasLZdXiuEdpUryDce6rF9ZiHoJ97MRpdLxOhOPyASTw/xDgE1xyaPQr0Q3f5A==
+"@parcel/compressor-raw@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/compressor-raw/-/compressor-raw-2.12.1-canary.3176.tgz#dfcfeb5d32f7ac6936bea6ad6cbaa207ae40c0be"
+  integrity sha512-dn3MqJ604y01xauiFYSj6FtRh8vNShg6RkYHfHxb3NIUqMxIohJkTbu8Dkn4YODjImfRGWOqsjjj6h8UfJOZOw==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/config-default@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/config-default/-/config-default-2.12.0.tgz#7b213348db349c6042a80dfd4a7eab707a1dfbfa"
-  integrity sha512-dPNe2n9eEsKRc1soWIY0yToMUPirPIa2QhxcCB3Z5RjpDGIXm0pds+BaiqY6uGLEEzsjhRO0ujd4v2Rmm0vuFg==
+"@parcel/config-default@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/config-default/-/config-default-2.0.0-canary.1553.tgz#e4e4974635b94c0024f118875b66f3aaf232a67b"
+  integrity sha512-UV4rqLBemtc77UFFld8hSApQzeuENW5cm+LfEDpTlTX4ShlIs+GIUpxCLA9jREP5HHPjrttULUJt3ex4Pd+nnA==
   dependencies:
-    "@parcel/bundler-default" "2.12.0"
-    "@parcel/compressor-raw" "2.12.0"
-    "@parcel/namer-default" "2.12.0"
-    "@parcel/optimizer-css" "2.12.0"
-    "@parcel/optimizer-htmlnano" "2.12.0"
-    "@parcel/optimizer-image" "2.12.0"
-    "@parcel/optimizer-svgo" "2.12.0"
-    "@parcel/optimizer-swc" "2.12.0"
-    "@parcel/packager-css" "2.12.0"
-    "@parcel/packager-html" "2.12.0"
-    "@parcel/packager-js" "2.12.0"
-    "@parcel/packager-raw" "2.12.0"
-    "@parcel/packager-svg" "2.12.0"
-    "@parcel/packager-wasm" "2.12.0"
-    "@parcel/reporter-dev-server" "2.12.0"
-    "@parcel/resolver-default" "2.12.0"
-    "@parcel/runtime-browser-hmr" "2.12.0"
-    "@parcel/runtime-js" "2.12.0"
-    "@parcel/runtime-react-refresh" "2.12.0"
-    "@parcel/runtime-service-worker" "2.12.0"
-    "@parcel/transformer-babel" "2.12.0"
-    "@parcel/transformer-css" "2.12.0"
-    "@parcel/transformer-html" "2.12.0"
-    "@parcel/transformer-image" "2.12.0"
-    "@parcel/transformer-js" "2.12.0"
-    "@parcel/transformer-json" "2.12.0"
-    "@parcel/transformer-postcss" "2.12.0"
-    "@parcel/transformer-posthtml" "2.12.0"
-    "@parcel/transformer-raw" "2.12.0"
-    "@parcel/transformer-react-refresh-wrap" "2.12.0"
-    "@parcel/transformer-svg" "2.12.0"
+    "@parcel/bundler-default" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/compressor-raw" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/namer-default" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/optimizer-css" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/optimizer-htmlnano" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/optimizer-image" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/optimizer-svgo" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/optimizer-swc" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/packager-css" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/packager-html" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/packager-js" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/packager-raw" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/packager-svg" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/packager-wasm" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/reporter-dev-server" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/resolver-default" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/runtime-browser-hmr" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/runtime-js" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/runtime-react-refresh" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/runtime-service-worker" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/transformer-babel" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-css" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-html" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-image" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/transformer-js" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-json" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-postcss" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-posthtml" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-raw" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-react-refresh-wrap" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/transformer-svg" "2.12.1-canary.3176+2a75be0cd"
 
-"@parcel/core@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/core/-/core-2.12.0.tgz#ea5734f008300bc57aaff2ba0f7949724c93b56d"
-  integrity sha512-s+6pwEj+GfKf7vqGUzN9iSEPueUssCCQrCBUlcAfKrJe0a22hTUCjewpB0I7lNrCIULt8dkndD+sMdOrXsRl6Q==
+"@parcel/core@2.0.0-canary.1551+2a75be0cd":
+  version "2.0.0-canary.1551"
+  resolved "https://registry.yarnpkg.com/@parcel/core/-/core-2.0.0-canary.1551.tgz#cbdbac2dcd951db9ba407b275b321e50eaa59a2c"
+  integrity sha512-UvPEsZpzeZ+Vx89mcWswanqR0VeHxu9qL7HzzHVekkpElYq2BuWq8AocsSzR5G+CcM7aqqzIk57Z/6v9ROEDfw==
   dependencies:
     "@mischnic/json-sourcemap" "^0.1.0"
-    "@parcel/cache" "2.12.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/events" "2.12.0"
-    "@parcel/fs" "2.12.0"
-    "@parcel/graph" "3.2.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/package-manager" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/profiler" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/cache" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/events" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/feature-flags" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/graph" "3.2.1-canary.3176+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/package-manager" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/profiler" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
-    "@parcel/workers" "2.12.0"
-    abortcontroller-polyfill "^1.1.9"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
     base-x "^3.0.8"
     browserslist "^4.6.6"
     clone "^2.1.1"
@@ -664,309 +664,314 @@
     nullthrows "^1.1.1"
     semver "^7.5.2"
 
-"@parcel/diagnostic@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/diagnostic/-/diagnostic-2.12.0.tgz#b38057d819ea2edc32018a1d51df434f07840be9"
-  integrity sha512-8f1NOsSFK+F4AwFCKynyIu9Kr/uWHC+SywAv4oS6Bv3Acig0gtwUjugk0C9UaB8ztBZiW5TQZhw+uPZn9T/lJA==
+"@parcel/diagnostic@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/diagnostic/-/diagnostic-2.0.0-canary.1553.tgz#d4e8284b45a1cc5d0b8a564671fe23ad298373b6"
+  integrity sha512-TDak8qQkzLiq98lyr93+iIeoMpmLECXuGOu8ls7kisjkbcz4Y9IBpYtFRk5uqwZJU8PEUNHUWiuWXriBFPX3QA==
   dependencies:
     "@mischnic/json-sourcemap" "^0.1.0"
     nullthrows "^1.1.1"
 
-"@parcel/events@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/events/-/events-2.12.0.tgz#ef67e3fbb96806b3531a37bcf95e8fbb3818ffa2"
-  integrity sha512-nmAAEIKLjW1kB2cUbCYSmZOGbnGj8wCzhqnK727zCCWaA25ogzAtt657GPOeFyqW77KyosU728Tl63Fc8hphIA==
+"@parcel/events@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/events/-/events-2.0.0-canary.1553.tgz#afd101df9d3d44c15ee01d6078b33696ae65f60d"
+  integrity sha512-hQOpjO0GAuny2EE30E4TDaF5gzujAqTsjYhv3u6lnzHRHxy5Pesbtywp+LwyBhzUzO0hY9V/Bf+ArA86SlVlhA==
 
-"@parcel/fs@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/fs/-/fs-2.12.0.tgz#8c9029353888311ba2e9e2198dbe6c7c1da635c0"
-  integrity sha512-NnFkuvou1YBtPOhTdZr44WN7I60cGyly2wpHzqRl62yhObyi1KvW0SjwOMa0QGNcBOIzp4G0CapoZ93hD0RG5Q==
+"@parcel/feature-flags@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/feature-flags/-/feature-flags-2.12.1-canary.3176.tgz#e1bc2574fc11f4843464e7d2e70519c9e8dfc9d7"
+  integrity sha512-bsjTw9hKrNiCgpeh/oabO6CWPhDe6wb1VEIT04g8G+uaNfCMx3fc8nGMJzfl+2GjK2XWYocIXkkSKFKMLwWTMg==
+
+"@parcel/fs@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/fs/-/fs-2.0.0-canary.1553.tgz#46b774f9e5facdf891b638231921d682205f9736"
+  integrity sha512-llJjj2/RRJFFINZIqpGuIL6TvFJbTXPruY9ETYEhgNw5ScHbJFJSkc4hMpO02IaASFq81LktDkV5hNKdfLAXmw==
   dependencies:
-    "@parcel/rust" "2.12.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/watcher" "^2.0.7"
-    "@parcel/workers" "2.12.0"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/graph@3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@parcel/graph/-/graph-3.2.0.tgz#309e6e3f19ef4ea7f71b2341ec1bcc08e7c43523"
-  integrity sha512-xlrmCPqy58D4Fg5umV7bpwDx5Vyt7MlnQPxW68vae5+BA4GSWetfZt+Cs5dtotMG2oCHzZxhIPt7YZ7NRyQzLA==
+"@parcel/graph@3.2.1-canary.3176+2a75be0cd":
+  version "3.2.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/graph/-/graph-3.2.1-canary.3176.tgz#05f55b5f123ba83063f20e48a6a7f9b23c8bcd4c"
+  integrity sha512-IPVuchKkLsNFa9K26jnMfj9jJmoM40NKphkLNn6lykIJIcA8w/NE3MMPSkAWGiVqAWoQJkUNTAlj0hPG6QBtOw==
   dependencies:
     nullthrows "^1.1.1"
 
-"@parcel/logger@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/logger/-/logger-2.12.0.tgz#0b866b7aee8a0a462596a80cd46bd8b29c318758"
-  integrity sha512-cJ7Paqa7/9VJ7C+KwgJlwMqTQBOjjn71FbKk0G07hydUEBISU2aDfmc/52o60ErL9l+vXB26zTrIBanbxS8rVg==
+"@parcel/logger@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/logger/-/logger-2.0.0-canary.1553.tgz#e6169b1b01e8ab3fc890af3886e74f1435de733f"
+  integrity sha512-6yThMuPxhFFe/uATc0AEKxHYiZn7fqPcGiEMj6bDRWhrZ+yiRCNMZt7THwGsOK/wcO6qn3eXxDmBJVZ3HskLkQ==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/events" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/events" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/markdown-ansi@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/markdown-ansi/-/markdown-ansi-2.12.0.tgz#a4301321fa784a28ba817e65e41432fe8b3b3192"
-  integrity sha512-WZz3rzL8k0H3WR4qTHX6Ic8DlEs17keO9gtD4MNGyMNQbqQEvQ61lWJaIH0nAtgEetu0SOITiVqdZrb8zx/M7w==
+"@parcel/markdown-ansi@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/markdown-ansi/-/markdown-ansi-2.0.0-canary.1553.tgz#8265ffcadd42d2dc4b6c2103b857432466366172"
+  integrity sha512-rVijYo6N5RMUa9bxrcg6LmlBxk45zj5JSGPEsNi3HGo5JqwZREZqy3S0arqDTpWg3Uw6eg+18aqhaB4wXxmkPw==
   dependencies:
     chalk "^4.1.0"
 
-"@parcel/namer-default@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/namer-default/-/namer-default-2.12.0.tgz#f9903da8e4c5c3e33fc8ab70b222be520a46da5d"
-  integrity sha512-9DNKPDHWgMnMtqqZIMiEj/R9PNWW16lpnlHjwK3ciRlMPgjPJ8+UNc255teZODhX0T17GOzPdGbU/O/xbxVPzA==
+"@parcel/namer-default@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/namer-default/-/namer-default-2.0.0-canary.1553.tgz#1e204e4c709e9fa8827821a38d130161a019e060"
+  integrity sha512-NIEiWw90bEVWoXst6dLgdN5FHSXZgSXmxvZoJybCKVRjGT2MsdRvo1C2QV6lSoLX+NZpek0hza8R12gRn+xFxw==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
-"@parcel/node-resolver-core@3.3.0":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@parcel/node-resolver-core/-/node-resolver-core-3.3.0.tgz#f40d80de800baa7cf230406b7122c8711ac4cdc8"
-  integrity sha512-rhPW9DYPEIqQBSlYzz3S0AjXxjN6Ub2yS6tzzsW/4S3Gpsgk/uEq4ZfxPvoPf/6TgZndVxmKwpmxaKtGMmf3cA==
+"@parcel/node-resolver-core@3.3.1-canary.3176+2a75be0cd":
+  version "3.3.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/node-resolver-core/-/node-resolver-core-3.3.1-canary.3176.tgz#8b4ed47882d9707ac78c4c83e44dd7d12df10894"
+  integrity sha512-OKTv5GiAMwJI7ufLd4hxmPMogZuIGHQz+bLV4bQ3etsSXO+rplfj47ySObVKR095/XncG8dbiJLsRQHLoZfA7g==
   dependencies:
     "@mischnic/json-sourcemap" "^0.1.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/fs" "2.12.0"
-    "@parcel/rust" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
     semver "^7.5.2"
 
-"@parcel/optimizer-css@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/optimizer-css/-/optimizer-css-2.12.0.tgz#f44f38dc7136b511a849343eea04714a42e1ba5f"
-  integrity sha512-ifbcC97fRzpruTjaa8axIFeX4MjjSIlQfem3EJug3L2AVqQUXnM1XO8L0NaXGNLTW2qnh1ZjIJ7vXT/QhsphsA==
+"@parcel/optimizer-css@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-css/-/optimizer-css-2.12.1-canary.3176.tgz#f72cea40615dfe538827b0f873282afd91d47974"
+  integrity sha512-6uFjRF4G4r6oXWCciAG5s7PdC5qHxzrtCKX9PiHINBCcaIYHW7FvU/AtofIKd9xfl5lTmw/RdY2aHL1X/JOP4Q==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     browserslist "^4.6.6"
     lightningcss "^1.22.1"
     nullthrows "^1.1.1"
 
-"@parcel/optimizer-htmlnano@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/optimizer-htmlnano/-/optimizer-htmlnano-2.12.0.tgz#e389d56d3f5cd2f6dd464a756a0704a65e527a9b"
-  integrity sha512-MfPMeCrT8FYiOrpFHVR+NcZQlXAptK2r4nGJjfT+ndPBhEEZp4yyL7n1y7HfX9geg5altc4WTb4Gug7rCoW8VQ==
+"@parcel/optimizer-htmlnano@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-htmlnano/-/optimizer-htmlnano-2.0.0-canary.1553.tgz#446008cfdf0409f4b0599fa1047b8dc16a0afc9f"
+  integrity sha512-ycbUVIdo54FaU6urPEqY9dmN1rc4noBYYS39HotomTs1G9K9ai34nmj8zNghlAgHjhxWb4Q60QIljT8Ny5m13w==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     htmlnano "^2.0.0"
     nullthrows "^1.1.1"
     posthtml "^0.16.5"
     svgo "^2.4.0"
 
-"@parcel/optimizer-image@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/optimizer-image/-/optimizer-image-2.12.0.tgz#46dd3c2a871700076c17376d27f6d46d030a0717"
-  integrity sha512-bo1O7raeAIbRU5nmNVtx8divLW9Xqn0c57GVNGeAK4mygnQoqHqRZ0mR9uboh64pxv6ijXZHPhKvU9HEpjPjBQ==
+"@parcel/optimizer-image@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-image/-/optimizer-image-2.12.1-canary.3176.tgz#e3b0f35dc39f73bc2ad6aa55f00b88f861edc171"
+  integrity sha512-Y8D1efjSvS8wFyPc+By/xemNiCfCIfKQUOt4EXTPyhztjckWMyzk9GLN2K+vyjmlsYZNuZVxhvBjdgE4IJqndg==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
-    "@parcel/utils" "2.12.0"
-    "@parcel/workers" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/optimizer-svgo@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/optimizer-svgo/-/optimizer-svgo-2.12.0.tgz#f1e411cbc3a3c56e05aa5fb2e1edd1ecc7016378"
-  integrity sha512-Kyli+ZZXnoonnbeRQdoWwee9Bk2jm/49xvnfb+2OO8NN0d41lblBoRhOyFiScRnJrw7eVl1Xrz7NTkXCIO7XFQ==
+"@parcel/optimizer-svgo@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-svgo/-/optimizer-svgo-2.12.1-canary.3176.tgz#4985602050e9c9394be6731ce495d0ccb818a82d"
+  integrity sha512-tC4mB9nOwYYH3QuHyPZ1VWpTW9ISE1r5xUdc7kT1auuw4XQrhnCoGKZWF58O+dC0xxbQ9CcPUluJbJG2ffl4Bg==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     svgo "^2.4.0"
 
-"@parcel/optimizer-swc@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/optimizer-swc/-/optimizer-swc-2.12.0.tgz#bacbdb4f6f4a7e0b7086f30b683e3f3f2f980c96"
-  integrity sha512-iBi6LZB3lm6WmbXfzi8J3DCVPmn4FN2lw7DGXxUXu7MouDPVWfTsM6U/5TkSHJRNRogZ2gqy5q9g34NPxHbJcw==
+"@parcel/optimizer-swc@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/optimizer-swc/-/optimizer-swc-2.12.1-canary.3176.tgz#b28ceb41f8e905bb7983f979a38ba95840240b10"
+  integrity sha512-jNirqJ/n8kw/OubDERMo3noH94m1yEpl5e43j3L0qHoYCZqKIqQWaU3mvnKvIpYipwfpWbinxhcQCJuGVEJTvA==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     "@swc/core" "^1.3.36"
     nullthrows "^1.1.1"
 
-"@parcel/package-manager@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/package-manager/-/package-manager-2.12.0.tgz#7e1eb5f652544e045f7240fa6cf92e5ff1627624"
-  integrity sha512-0nvAezcjPx9FT+hIL+LS1jb0aohwLZXct7jAh7i0MLMtehOi0z1Sau+QpgMlA9rfEZZ1LIeFdnZZwqSy7Ccspw==
+"@parcel/package-manager@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/package-manager/-/package-manager-2.0.0-canary.1553.tgz#e5e74ae1485bfc048855a8f3938f3fe0f9ede548"
+  integrity sha512-eKuGKN7B1Ov9XyLUOA3VMh5uSdBPVgIK/+4mNG1WU5E6i4+aZIBui4dsqaWv1sERuiHySP4Sd9xpm31i3y5lhg==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/fs" "2.12.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/node-resolver-core" "3.3.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
-    "@parcel/workers" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/node-resolver-core" "3.3.1-canary.3176+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
     "@swc/core" "^1.3.36"
     semver "^7.5.2"
 
-"@parcel/packager-css@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-css/-/packager-css-2.12.0.tgz#bee2908608f306186695c6505c3303548751a7b8"
-  integrity sha512-j3a/ODciaNKD19IYdWJT+TP+tnhhn5koBGBWWtrKSu0UxWpnezIGZetit3eE+Y9+NTePalMkvpIlit2eDhvfJA==
+"@parcel/packager-css@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-css/-/packager-css-2.0.0-canary.1553.tgz#1ff05651dd2d124d070ef86b4130cb7910ce2bc9"
+  integrity sha512-az2K/66M9NvvWT74+OcqzL1g7wSMb1kZF0B6lf/3N0UE4l315mMtbrlwJNSW/XrNk/X9MVqOoSAEQ7Yp4ARtuA==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     lightningcss "^1.22.1"
     nullthrows "^1.1.1"
 
-"@parcel/packager-html@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-html/-/packager-html-2.12.0.tgz#dd62a483043982880a63e68ce8d8132f60becd3d"
-  integrity sha512-PpvGB9hFFe+19NXGz2ApvPrkA9GwEqaDAninT+3pJD57OVBaxB8U+HN4a5LICKxjUppPPqmrLb6YPbD65IX4RA==
+"@parcel/packager-html@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-html/-/packager-html-2.0.0-canary.1553.tgz#ca9852c3e46da6118ada71ecd07e6a7f12ee2d9c"
+  integrity sha512-CAApz02Ddkm8RfgsDmZKegYIK+wydQhPpa5SWL1gGns3xUNy+20peGPqsgqDOS1anoZxJ9JL3wQEzY9gecfNdg==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
     posthtml "^0.16.5"
 
-"@parcel/packager-js@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-js/-/packager-js-2.12.0.tgz#f81f64d16560b97e70bbb4cf568555f990afa2f6"
-  integrity sha512-viMF+FszITRRr8+2iJyk+4ruGiL27Y6AF7hQ3xbJfzqnmbOhGFtLTQwuwhOLqN/mWR2VKdgbLpZSarWaO3yAMg==
+"@parcel/packager-js@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-js/-/packager-js-2.0.0-canary.1553.tgz#c772d97589ec816f5438406f1324eb7d4ab45a7a"
+  integrity sha512-LMXKgCgR/bv7qP6qIo8uYhyCp1keYv6BfLSgVqF6chMAKbPu9qQhFYC0+tKtagbtWKNQj6RTHVWI5NVW7AlA7g==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     globals "^13.2.0"
     nullthrows "^1.1.1"
 
-"@parcel/packager-raw-url@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-raw-url/-/packager-raw-url-2.12.0.tgz#2b6dade7803ff3d8970ef3c1279b9d9d10318810"
-  integrity sha512-sH7cvLbotS+qknhQUCGfd9mslQr4KcanlZE5CgzM0uGn3SnyZoKznqHrbouzgnIP/LHgXKOKmMaNjPLtVe4rcA==
+"@parcel/packager-raw-url@2.12.1-canary.3176":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-raw-url/-/packager-raw-url-2.12.1-canary.3176.tgz#3ff036f7da0a18010e31cd2210d19b738849ab6e"
+  integrity sha512-Ehb+4lv0YOUk5MBIbKrXh+GXPHRt+aiW0FdpiIyFMQph9QQwqBfFBCCmKKJmX+wllvbNid+2z59JYzzAjnKSRg==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/packager-raw@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-raw/-/packager-raw-2.12.0.tgz#043b704814ff2bcc884cf33e6542f72e246367e0"
-  integrity sha512-tJZqFbHqP24aq1F+OojFbQIc09P/u8HAW5xfndCrFnXpW4wTgM3p03P0xfw3gnNq+TtxHJ8c3UFE5LnXNNKhYA==
+"@parcel/packager-raw@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-raw/-/packager-raw-2.0.0-canary.1553.tgz#862782e88b22efb1c9e7ab6e447974817fa487cd"
+  integrity sha512-FcwU+8GqMePvBTKOHhdCkKoqxQOc9AbtScedUaYrdNPoQJvFu8sSY87EUepOtxeMs7LA77cVXUjjtwzOz0YKpw==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/packager-svg@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-svg/-/packager-svg-2.12.0.tgz#2c392243373d60fc834a08d15003f239c34f39a7"
-  integrity sha512-ldaGiacGb2lLqcXas97k8JiZRbAnNREmcvoY2W2dvW4loVuDT9B9fU777mbV6zODpcgcHWsLL3lYbJ5Lt3y9cg==
+"@parcel/packager-svg@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-svg/-/packager-svg-2.12.1-canary.3176.tgz#aa5e45e0599367a13f819e92d36896d36766f709"
+  integrity sha512-NwTh00xj0nYwCf9tfwk8qOPypWwzMZd7mCCU4t7k58m7uUBOoLgTq90846uneaSKy585k1TcAuH6IpYzFazoZQ==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     posthtml "^0.16.4"
 
-"@parcel/packager-wasm@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/packager-wasm/-/packager-wasm-2.12.0.tgz#39dbd91e7bf68456dbc9d19a412017e2b513736f"
-  integrity sha512-fYqZzIqO9fGYveeImzF8ll6KRo2LrOXfD+2Y5U3BiX/wp9wv17dz50QLDQm9hmTcKGWxK4yWqKQh+Evp/fae7A==
+"@parcel/packager-wasm@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/packager-wasm/-/packager-wasm-2.12.1-canary.3176.tgz#1e5c1427fbe233ebb57ed139d1677de08ade72f4"
+  integrity sha512-rWClWDhakxGOH2InBknESveiDsRWqROhp/DobleQeFY32Acjq6DnSYSt8Xc2ukXdVFALquJgaaYmAY7hXQwJCw==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/plugin@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/plugin/-/plugin-2.12.0.tgz#3db4237e8977ef5b5378b65eaffb809d2026431a"
-  integrity sha512-nc/uRA8DiMoe4neBbzV6kDndh/58a4wQuGKw5oEoIwBCHUvE2W8ZFSu7ollSXUGRzfacTt4NdY8TwS73ScWZ+g==
+"@parcel/plugin@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/plugin/-/plugin-2.0.0-canary.1553.tgz#d6753d8723a16f2a2ffc18a3fd590ebacbfc30e3"
+  integrity sha512-OdCEb8dzGcwq/VV3uaUumcVy1qTKKFpzq8OIGqOtgqD1X0lmFgER7hIxodW6gCiIynOk1MBOJfKuP5yqJBkcwA==
   dependencies:
-    "@parcel/types" "2.12.0"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/profiler@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/profiler/-/profiler-2.12.0.tgz#8541ca5d27500aebc843b1de081734442e5ee054"
-  integrity sha512-q53fvl5LDcFYzMUtSusUBZSjQrKjMlLEBgKeQHFwkimwR1mgoseaDBDuNz0XvmzDzF1UelJ02TUKCGacU8W2qA==
+"@parcel/profiler@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/profiler/-/profiler-2.12.1-canary.3176.tgz#fbd1635c7eb6e1de83910e1a5989c6364dc38278"
+  integrity sha512-frUnM1iZNrB0D6vDUIoHbwJ8Jth/8Kl9eG3LKXd73b5Jt0uG24RzM2fMwAcUzfZzd8qMwB0EhFCKuoi2mop6Ug==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/events" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/events" "2.0.0-canary.1553+2a75be0cd"
     chrome-trace-event "^1.0.2"
 
-"@parcel/reporter-cli@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/reporter-cli/-/reporter-cli-2.12.0.tgz#e067b4eeca49c7120d3455d99810bed5bc825920"
-  integrity sha512-TqKsH4GVOLPSCanZ6tcTPj+rdVHERnt5y4bwTM82cajM21bCX1Ruwp8xOKU+03091oV2pv5ieB18pJyRF7IpIw==
+"@parcel/reporter-cli@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/reporter-cli/-/reporter-cli-2.0.0-canary.1553.tgz#735b549e0cbcd7f4af5fbb33858007b7a8f22c76"
+  integrity sha512-lb2TJKNJJeZX0hJx9NVOsbB8MiHNrD2cBAN3CJo8ow8+B4nu9DE0F2LNwZGgW6NSQNY8C0Wgz5DWPf7Rb9DXKQ==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     chalk "^4.1.0"
     term-size "^2.2.1"
 
-"@parcel/reporter-dev-server@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/reporter-dev-server/-/reporter-dev-server-2.12.0.tgz#bd4c9e3d6dc8d8b178564a336f46b4f70acf3e79"
-  integrity sha512-tIcDqRvAPAttRlTV28dHcbWT5K2r/MBFks7nM4nrEDHWtnrCwimkDmZTc1kD8QOCCjGVwRHcQybpHvxfwol6GA==
+"@parcel/reporter-dev-server@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/reporter-dev-server/-/reporter-dev-server-2.0.0-canary.1553.tgz#9942d7ae8fd34c6317d0d26ae8761dd53a655a0a"
+  integrity sha512-HhqWMfdnlBgm3ByX9CpxD1V/eNeO4dlw/c0K3nFR3QJiy31HvoT8Fj7VKxotv2daHWcR9tJQizwP96XwJfA4xQ==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/reporter-tracer@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/reporter-tracer/-/reporter-tracer-2.12.0.tgz#680e8be677277318c656c1825dbe98a8bfb64e16"
-  integrity sha512-g8rlu9GxB8Ut/F8WGx4zidIPQ4pcYFjU9bZO+fyRIPrSUFH2bKijCnbZcr4ntqzDGx74hwD6cCG4DBoleq2UlQ==
+"@parcel/reporter-tracer@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/reporter-tracer/-/reporter-tracer-2.12.1-canary.3176.tgz#3149fbabd838c9fe8a93c70bf37b6515f59ac97e"
+  integrity sha512-YhNQGTLIFhclBAaMecMzbsA+fAlyUSlLMqscbH4qLTp4aQAgpjujUnLbUExHQ902mW7HusBGddqREscU4fGzYw==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     chrome-trace-event "^1.0.3"
     nullthrows "^1.1.1"
 
-"@parcel/resolver-default@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/resolver-default/-/resolver-default-2.12.0.tgz#005b6bc01de9d166a97d7ef30daf339973c4898a"
-  integrity sha512-uuhbajTax37TwCxu7V98JtRLiT6hzE4VYSu5B7Qkauy14/WFt2dz6GOUXPgVsED569/hkxebPx3KCMtZW6cHHA==
+"@parcel/resolver-default@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/resolver-default/-/resolver-default-2.0.0-canary.1553.tgz#3b3d86b243c3430b4cd5d840e55a76709a17fd18"
+  integrity sha512-RFeLg74kIyDpEDkB5g1daniqhTABOipvDjJX18d0H/fjBAzRpZd7noxp7LTDIbMHQC7NoxgZ8fx5H4U0Ap4QPg==
   dependencies:
-    "@parcel/node-resolver-core" "3.3.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/node-resolver-core" "3.3.1-canary.3176+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/runtime-browser-hmr@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/runtime-browser-hmr/-/runtime-browser-hmr-2.12.0.tgz#9d045785b83760e305c9efd3d6300a9ff73bcfaf"
-  integrity sha512-4ZLp2FWyD32r0GlTulO3+jxgsA3oO1P1b5oO2IWuWilfhcJH5LTiazpL5YdusUjtNn9PGN6QLAWfxmzRIfM+Ow==
+"@parcel/runtime-browser-hmr@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/runtime-browser-hmr/-/runtime-browser-hmr-2.0.0-canary.1553.tgz#9726a8742cfd0e0d1d2bc94e6182f5758e1ccc55"
+  integrity sha512-BHAn7Auqn5oGsVb9RE1Rlo0OALv393uxtvy1IsthZkwI17h2ZBwAWNB2PEHoR17IrcESsIl7aniS5AjVfDWcqQ==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/runtime-js@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/runtime-js/-/runtime-js-2.12.0.tgz#da6f7da041cb157556822ad60fefcdbc790dda9c"
-  integrity sha512-sBerP32Z1crX5PfLNGDSXSdqzlllM++GVnVQVeM7DgMKS8JIFG3VLi28YkX+dYYGtPypm01JoIHCkvwiZEcQJg==
+"@parcel/runtime-js@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/runtime-js/-/runtime-js-2.0.0-canary.1553.tgz#0cbd4a51ad2ab3e26c00dcebc10d226929a1943f"
+  integrity sha512-XnhRYTtMN70Wap066CpCnPQPBeTL4hOOwtKx55USZwEyN5ZbOOTC+/HlkWPB5jgwUSvQyzh6hEorDZqa1iaYxw==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
-"@parcel/runtime-react-refresh@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/runtime-react-refresh/-/runtime-react-refresh-2.12.0.tgz#58c17552766492ec2005ffedfa04ecb29386dd8b"
-  integrity sha512-SCHkcczJIDFTFdLTzrHTkQ0aTrX3xH6jrA4UsCBL6ji61+w+ohy4jEEe9qCgJVXhnJfGLE43HNXek+0MStX+Mw==
+"@parcel/runtime-react-refresh@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/runtime-react-refresh/-/runtime-react-refresh-2.0.0-canary.1553.tgz#ad552573bdeecae4db93a8c89b7f2752690395a0"
+  integrity sha512-Y4LjTpIid8dIgDp4NvjHkQC9FDYOn2x058wGmHcHzvhqmXrSk+1BKk/JOx5pBW6B5ul3KOP8xIjnPdviuwsp1w==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     react-error-overlay "6.0.9"
     react-refresh "^0.9.0"
 
-"@parcel/runtime-service-worker@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/runtime-service-worker/-/runtime-service-worker-2.12.0.tgz#67ee1e6dbc5441651fed04ecb2bd7ebe1e362679"
-  integrity sha512-BXuMBsfiwpIEnssn+jqfC3jkgbS8oxeo3C7xhSQsuSv+AF2FwY3O3AO1c1RBskEW3XrBLNINOJujroNw80VTKA==
+"@parcel/runtime-service-worker@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/runtime-service-worker/-/runtime-service-worker-2.12.1-canary.3176.tgz#45e3985558852441cd8922f772145d1097493ba3"
+  integrity sha512-Wmf+uUyefHK2EXCoxpj8JfFJMDc2c3JAU2+XSVdPEKvmsZrLgRn6XLLxmK54Pr5a1SWFKmgAqtytX9DaQStHxg==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
-"@parcel/rust@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/rust/-/rust-2.12.0.tgz#135df4dd8c63d97720379777c5bb4a2680a201cd"
-  integrity sha512-005cldMdFZFDPOjbDVEXcINQ3wT4vrxvSavRWI3Az0e3E18exO/x/mW9f648KtXugOXMAqCEqhFHcXECL9nmMw==
+"@parcel/rust@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/rust/-/rust-2.12.1-canary.3176.tgz#106fa10fd86d6ca35201bfb3366a6ae96b32d1c5"
+  integrity sha512-GJhth/tDlowWsEE85fqIxe24oAdBewkuF53XM/WavysjjfLY6sWneie4HpMJ7gYYFQQJRDjj1HVhIr2nlBCQNA==
 
 "@parcel/source-map@^2.1.1":
   version "2.1.1"
@@ -975,41 +980,41 @@
   dependencies:
     detect-libc "^1.0.3"
 
-"@parcel/transformer-babel@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-babel/-/transformer-babel-2.12.0.tgz#29be68f2fad4688b33ef3f03ef2b8c3e9928b87f"
-  integrity sha512-zQaBfOnf/l8rPxYGnsk/ufh/0EuqvmnxafjBIpKZ//j6rGylw5JCqXSb1QvvAqRYruKeccxGv7+HrxpqKU6V4A==
+"@parcel/transformer-babel@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-babel/-/transformer-babel-2.0.0-canary.1553.tgz#ee126aa3e457130a03f79a30d28e8cb7c4b3ff1b"
+  integrity sha512-e+Uy8QJjOc92buq/NkpHzW3EwdchvmK+RDWhZIjAD/9jSUJZNmUQYELSoO3PMD420xg0JzxEazQh0mWghW9WMA==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     browserslist "^4.6.6"
     json5 "^2.2.0"
     nullthrows "^1.1.1"
     semver "^7.5.2"
 
-"@parcel/transformer-css@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-css/-/transformer-css-2.12.0.tgz#218a98948c9410c17287183d80ca9bd9943cc9e9"
-  integrity sha512-vXhOqoAlQGATYyQ433Z1DXKmiKmzOAUmKysbYH3FD+LKEKLMEl/pA14goqp00TW+A/EjtSKKyeMyHlMIIUqj4Q==
+"@parcel/transformer-css@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-css/-/transformer-css-2.0.0-canary.1553.tgz#9d3f0c4019974106c69fefb45c0adedcd00b9d03"
+  integrity sha512-gFhV2MdsC7sQMHKFd2Waz2MQfjQaMLiPpOrGekpoc7PWu7dYyFUsaSeK2W89CRQHmWIYsXnJfr1/quqbjgeC+A==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     browserslist "^4.6.6"
     lightningcss "^1.22.1"
     nullthrows "^1.1.1"
 
-"@parcel/transformer-html@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-html/-/transformer-html-2.12.0.tgz#8681b089e2b20c5fda1c966cefb8de4d8fb2ce80"
-  integrity sha512-5jW4dFFBlYBvIQk4nrH62rfA/G/KzVzEDa6S+Nne0xXhglLjkm64Ci9b/d4tKZfuGWUbpm2ASAq8skti/nfpXw==
+"@parcel/transformer-html@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-html/-/transformer-html-2.0.0-canary.1553.tgz#e21e972e0688b22af1f9384332fd7db6d1b8b68d"
+  integrity sha512-DRwPNM2PY94hFJOM3c6tNKEMuqUelPuBCJraeWlBjUJbrdHeufONxLQTHIa0QO2q6bWF0o0Fj+3jaaDttvbzQQ==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     nullthrows "^1.1.1"
     posthtml "^0.16.5"
     posthtml-parser "^0.10.1"
@@ -1017,141 +1022,142 @@
     semver "^7.5.2"
     srcset "4"
 
-"@parcel/transformer-image@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-image/-/transformer-image-2.12.0.tgz#8ba2ca3b5d88287bf38c8244b2714158c9d34b2e"
-  integrity sha512-8hXrGm2IRII49R7lZ0RpmNk27EhcsH+uNKsvxuMpXPuEnWgC/ha/IrjaI29xCng1uGur74bJF43NUSQhR4aTdw==
+"@parcel/transformer-image@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-image/-/transformer-image-2.12.1-canary.3176.tgz#9ec2f2cdccd5b5b012ec1ce1eadf58902c0fbc66"
+  integrity sha512-q2CfHau5u1VHrZy4/M+V1yvyImBwYWHBLNfuZBEyPywu0TDYKdKKpL1z/7mswU34YXJfiN8fkOppNkRbnm6C2Q==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
-    "@parcel/workers" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
-"@parcel/transformer-js@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-js/-/transformer-js-2.12.0.tgz#e6bf0c312f78603faf98ce546086898506e3811f"
-  integrity sha512-OSZpOu+FGDbC/xivu24v092D9w6EGytB3vidwbdiJ2FaPgfV7rxS0WIUjH4I0OcvHAcitArRXL0a3+HrNTdQQw==
+"@parcel/transformer-js@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-js/-/transformer-js-2.0.0-canary.1553.tgz#aa06593dd8ad3676bd0d9399e459bd9760950f13"
+  integrity sha512-5HTak4QMxKTVq3TDxDZXSpHACI/DIhLbGuKMA8gndlBGoNBxRM82dlrp3y3+m7Rd2TvHZxeH2E2ZDJoIDhAbBg==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/utils" "2.12.0"
-    "@parcel/workers" "2.12.0"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
     "@swc/helpers" "^0.5.0"
     browserslist "^4.6.6"
     nullthrows "^1.1.1"
     regenerator-runtime "^0.13.7"
     semver "^7.5.2"
 
-"@parcel/transformer-json@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-json/-/transformer-json-2.12.0.tgz#16cc0454e4862350b605a5e2009d050c676c6ea5"
-  integrity sha512-Utv64GLRCQILK5r0KFs4o7I41ixMPllwOLOhkdjJKvf1hZmN6WqfOmB1YLbWS/y5Zb/iB52DU2pWZm96vLFQZQ==
+"@parcel/transformer-json@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-json/-/transformer-json-2.0.0-canary.1553.tgz#991313673a72295def0fff57fe5bda3cad29ec37"
+  integrity sha512-xzVyGuDbrtH9bBSNnHOqqJlOTL9yuQoR+epwurPX00JZ6dVcJtM48tMtxIfDCWvHSzhYIoELE0Myu0+cw5paPA==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     json5 "^2.2.0"
 
-"@parcel/transformer-postcss@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-postcss/-/transformer-postcss-2.12.0.tgz#195f4fb86f36f42b5de82076ea36b9d850f4832e"
-  integrity sha512-FZqn+oUtiLfPOn67EZxPpBkfdFiTnF4iwiXPqvst3XI8H+iC+yNgzmtJkunOOuylpYY6NOU5jT8d7saqWSDv2Q==
+"@parcel/transformer-postcss@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-postcss/-/transformer-postcss-2.0.0-canary.1553.tgz#6570f67d8a4d2691413a40e1b408adacaa729f47"
+  integrity sha512-CIQpWKhb+d9X+wtQji01FfM03DwWtizFejumzNjsgvDgPWdsG3MFCUUXrKLkvHc2NOU9FpVrBlMTyVs4nWe1gg==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     clone "^2.1.1"
     nullthrows "^1.1.1"
     postcss-value-parser "^4.2.0"
     semver "^7.5.2"
 
-"@parcel/transformer-posthtml@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-posthtml/-/transformer-posthtml-2.12.0.tgz#a906c26278e03455f6186b7dbd9f5b63eaa26948"
-  integrity sha512-z6Z7rav/pcaWdeD+2sDUcd0mmNZRUvtHaUGa50Y2mr+poxrKilpsnFMSiWBT+oOqPt7j71jzDvrdnAF4XkCljg==
+"@parcel/transformer-posthtml@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-posthtml/-/transformer-posthtml-2.0.0-canary.1553.tgz#b4de4a9fa0c5acf878cdd7c6eb8668d6084860c1"
+  integrity sha512-judD7R/KrMkVoxn6o1uW0L71DAlBzkXdQy4PxOPPb79HftLFpvaS5ncS2N6UoLBM8zuobln5htFBG92Zvknq0Q==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
     posthtml "^0.16.5"
     posthtml-parser "^0.10.1"
     posthtml-render "^3.0.0"
     semver "^7.5.2"
 
-"@parcel/transformer-raw@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-raw/-/transformer-raw-2.12.0.tgz#1ee7e02214f777cf3a5bf53580ee4dadfaf8a44c"
-  integrity sha512-Ht1fQvXxix0NncdnmnXZsa6hra20RXYh1VqhBYZLsDfkvGGFnXIgO03Jqn4Z8MkKoa0tiNbDhpKIeTjyclbBxQ==
+"@parcel/transformer-raw@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-raw/-/transformer-raw-2.0.0-canary.1553.tgz#7b1463ffd043603ec39c96b0ddc4da8e006462cb"
+  integrity sha512-Cvbo72o4End1whYgaUvFFy+6MN+yH4e7xTFRcxr7c7EuQ9sXXzCj6fTBFIMTNsKSeRR85nF4zgNPaahdLve/RA==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/transformer-react-refresh-wrap@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-react-refresh-wrap/-/transformer-react-refresh-wrap-2.12.0.tgz#cf079353126f2bb820209736a75f868d0df58d92"
-  integrity sha512-GE8gmP2AZtkpBIV5vSCVhewgOFRhqwdM5Q9jNPOY5PKcM3/Ff0qCqDiTzzGLhk0/VMBrdjssrfZkVx6S/lHdJw==
+"@parcel/transformer-react-refresh-wrap@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-react-refresh-wrap/-/transformer-react-refresh-wrap-2.0.0-canary.1553.tgz#7e052b6f44deed3f53e460799266da55e43c89c7"
+  integrity sha512-6V+ucJfQmeu1Z/C5WESOaAaVrveIYve8UyNZ7AkRS3RpMTYP9wjyfjUlKNF+h9NzyLHhdPjfItyjw/IcCZqaqg==
   dependencies:
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     react-refresh "^0.9.0"
 
-"@parcel/transformer-svg-react@^2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-svg-react/-/transformer-svg-react-2.12.0.tgz#646df7c76201dd0ef08b0eb9921b329df022f133"
-  integrity sha512-vhutEXbPqu1PeJNofB4KaAoXpOJrlfdCibWilZKEs7ZPEMOxtWXGa0mcUlSNgB4vRNmUqz0vUP0uBF9O1FxBrQ==
+"@parcel/transformer-svg-react@2.12.1-canary.3176":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-svg-react/-/transformer-svg-react-2.12.1-canary.3176.tgz#7bf77421781ca268c7d35ef94a7e900e442ed072"
+  integrity sha512-qEcrtNoW4CcsGRN2rrIx2JeluSnsHCVy2o6tNJ/5lbI3bm/+kuHaLPamTOb+NJby5tRrM9BJDaQueEG6SudMWw==
   dependencies:
-    "@parcel/plugin" "2.12.0"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
     "@svgr/core" "^6.2.0"
     "@svgr/plugin-jsx" "^6.2.0"
     "@svgr/plugin-svgo" "^6.2.0"
 
-"@parcel/transformer-svg@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-svg/-/transformer-svg-2.12.0.tgz#0281e89bf0f438ec161c19b59a8a8978434a3621"
-  integrity sha512-cZJqGRJ4JNdYcb+vj94J7PdOuTnwyy45dM9xqbIMH+HSiiIkfrMsdEwYft0GTyFTdsnf+hdHn3tau7Qa5hhX+A==
+"@parcel/transformer-svg@2.12.1-canary.3176+2a75be0cd":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-svg/-/transformer-svg-2.12.1-canary.3176.tgz#c32698e8f8758b614ddeb281a824cd1497d66efb"
+  integrity sha512-/eYlyF+pKWthpQD0EHAH4MH4DiTY8ye3s/q1XhLtxjxuFm5e2c3IMzEHevFf9VwpNdoQvCSRzHFSvtM5PEzYiQ==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     nullthrows "^1.1.1"
     posthtml "^0.16.5"
     posthtml-parser "^0.10.1"
     posthtml-render "^3.0.0"
     semver "^7.5.2"
 
-"@parcel/transformer-webmanifest@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/transformer-webmanifest/-/transformer-webmanifest-2.12.0.tgz#a44e8917c9266e2ca830e3e92541e5267231dda2"
-  integrity sha512-suiUv9DDEpyryHtzahbIeJSZTIeE/t4cdrU0Ikb/O46wsy5RLo59nE4E6TGWM84R7fQO8m/MhzeQM5Y3NV6jKg==
+"@parcel/transformer-webmanifest@2.12.1-canary.3176":
+  version "2.12.1-canary.3176"
+  resolved "https://registry.yarnpkg.com/@parcel/transformer-webmanifest/-/transformer-webmanifest-2.12.1-canary.3176.tgz#e313c19679a4b0492b8acfff4e734725819b1593"
+  integrity sha512-c3s/uqbVkR6lhYaHlY970td2KjJPSAiPTZfrqTjOn9dJfyiPCCcYjRr73+plfH4sS/1LQ3Eu5CZc0KSNOD0HnA==
   dependencies:
     "@mischnic/json-sourcemap" "^0.1.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/plugin" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/plugin" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
 
-"@parcel/types@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/types/-/types-2.12.0.tgz#caf0af00ee0c7228b350eca5f4d3a5b85ce457ad"
-  integrity sha512-8zAFiYNCwNTQcglIObyNwKfRYQK5ELlL13GuBOrSMxueUiI5ylgsGbTS1N7J3dAGZixHO8KhHGv5a71FILn9rQ==
+"@parcel/types@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/types/-/types-2.0.0-canary.1553.tgz#8327c585ce1af469e4057fd38debbe076adea0d1"
+  integrity sha512-43dyhqIuCBaRQYrICPMDe7TUfrVZ0yhx/VCshN+OXjM/V9Z5bKQgLer4P7DLGa9L8p+k1z/tlK5+5VDagB3aWQ==
   dependencies:
-    "@parcel/cache" "2.12.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/fs" "2.12.0"
-    "@parcel/package-manager" "2.12.0"
+    "@parcel/cache" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/feature-flags" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/package-manager" "2.0.0-canary.1553+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
-    "@parcel/workers" "2.12.0"
+    "@parcel/workers" "2.0.0-canary.1553+2a75be0cd"
     utility-types "^3.10.0"
 
-"@parcel/utils@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/utils/-/utils-2.12.0.tgz#ac900726e7cb12a9e6392081fa05b756183f65fd"
-  integrity sha512-z1JhLuZ8QmDaYoEIuUCVZlhcFrS7LMfHrb2OCRui5SQFntRWBH2fNM6H/fXXUkT9SkxcuFP2DUA6/m4+Gkz72g==
+"@parcel/utils@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/utils/-/utils-2.0.0-canary.1553.tgz#0af48e61c9df15a16afebdb8525954ae1e6e9b1d"
+  integrity sha512-WdnYa3dbvAynr4rzuyglRfE9oiN2sYA3UKd+1Nnn1/mjTsCwpMsqQ5Fi2ml3i4SbQRZFuZMHLV6/EfbonXESow==
   dependencies:
-    "@parcel/codeframe" "2.12.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/markdown-ansi" "2.12.0"
-    "@parcel/rust" "2.12.0"
+    "@parcel/codeframe" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/markdown-ansi" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/rust" "2.12.1-canary.3176+2a75be0cd"
     "@parcel/source-map" "^2.1.1"
     chalk "^4.1.0"
     nullthrows "^1.1.1"
@@ -1239,16 +1245,16 @@
     "@parcel/watcher-win32-ia32" "2.4.1"
     "@parcel/watcher-win32-x64" "2.4.1"
 
-"@parcel/workers@2.12.0":
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/@parcel/workers/-/workers-2.12.0.tgz#773182b5006741102de8ae36d18a5a9e3320ebd1"
-  integrity sha512-zv5We5Jmb+ZWXlU6A+AufyjY4oZckkxsZ8J4dvyWL0W8IQvGO1JB4FGeryyttzQv3RM3OxcN/BpTGPiDG6keBw==
+"@parcel/workers@2.0.0-canary.1553+2a75be0cd":
+  version "2.0.0-canary.1553"
+  resolved "https://registry.yarnpkg.com/@parcel/workers/-/workers-2.0.0-canary.1553.tgz#ed32d085234bf973075dc3597dda793aee4c2c04"
+  integrity sha512-NbgDVB7ARhL8KDvqWy06QTEV5u4QlS1kSXfQk1X15SmtgbTz7rBPfr3Ni0kajHV68RfP805OcpyPoyUsRXXMpQ==
   dependencies:
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/profiler" "2.12.0"
-    "@parcel/types" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/profiler" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/types" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     nullthrows "^1.1.1"
 
 "@pkgjs/parseargs@^0.11.0":
@@ -2070,11 +2076,6 @@
   resolved "https://registry.yarnpkg.com/@zip.js/zip.js/-/zip.js-2.7.41.tgz#582668dabe997c353b37f27edb95162f688d387a"
   integrity sha512-EMxPWXlEqqvsK9jxPmNvEShrIXP2LYTdQnEfsBH6OQCnlZRVo/dJIgtzbKvtK9A8PBTDQdxwxulj+QKplmW2Xg==
 
-abortcontroller-polyfill@^1.1.9:
-  version "1.7.3"
-  resolved "https://registry.yarnpkg.com/abortcontroller-polyfill/-/abortcontroller-polyfill-1.7.3.tgz#1b5b487bd6436b5b764fd52a612509702c3144b5"
-  integrity sha512-zetDJxd89y3X99Kvo4qFx8GKlt6GsvN3UcRZHwU6iFA/0KiOmhkTVhe8oRoTBiTVPZu09x3vCra47+w8Yz1+2Q==
-
 acorn-jsx@^5.3.2:
   version "5.3.2"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-5.3.2.tgz#7ed5bb55908b3b2f1bc55c6af1653bada7f07937"
@@ -2423,9 +2424,9 @@ camelcase@^6.0.0, camelcase@^6.2.0:
   integrity sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==
 
 caniuse-lite@^1.0.30001370:
-  version "1.0.30001450"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001450.tgz"
-  integrity sha512-qMBmvmQmFXaSxexkjjfMvD5rnDL0+m+dUMZKoDYsGG8iZN29RuYh9eRoMvKsT6uMAWlyUUGDEQGJJYjzCIO9ew==
+  version "1.0.30001608"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001608.tgz#7ae6e92ffb300e4b4ec2f795e0abab456ec06cc0"
+  integrity sha512-cjUJTQkk9fQlJR2s4HMuPMvTiRggl0rAVMtthQuyOlDWuqHXqN8azLq+pi8B2TjwKJ32diHjUqRIKeFX4z1FoA==
 
 cbor-web@^9.0.0:
   version "9.0.1"
@@ -4533,22 +4534,23 @@ pako@~1.0.2:
   resolved "https://registry.npmjs.org/pako/-/pako-1.0.11.tgz"
   integrity sha512-4hLB8Py4zZce5s4yd9XzopqwVv/yGNhV1Bl8NTmCq1763HeK2+EwVTv+leGeL13Dnh2wfbqowVPXCIO0z4taYw==
 
-parcel@^2.12.0:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.12.0.tgz#60529c268c2ce0754b225af835f1519da1364298"
-  integrity sha512-W+gxAq7aQ9dJIg/XLKGcRT0cvnStFAQHPaI0pvD0U2l6IVLueUAm3nwN7lkY62zZNmlvNx6jNtE4wlbS+CyqSg==
+parcel@2.0.0-canary.1551:
+  version "2.0.0-canary.1551"
+  resolved "https://registry.yarnpkg.com/parcel/-/parcel-2.0.0-canary.1551.tgz#8d101c8594fd5cc88b0c5bea8ba21febe68360de"
+  integrity sha512-46N/qj3RqoJfFVGcIT3RLfNafzk/PrLCknPtcECD6B2Gxa130L27rqxca+ElCwdPXQs7cApT8o1qEi5sF8+c+g==
   dependencies:
-    "@parcel/config-default" "2.12.0"
-    "@parcel/core" "2.12.0"
-    "@parcel/diagnostic" "2.12.0"
-    "@parcel/events" "2.12.0"
-    "@parcel/fs" "2.12.0"
-    "@parcel/logger" "2.12.0"
-    "@parcel/package-manager" "2.12.0"
-    "@parcel/reporter-cli" "2.12.0"
-    "@parcel/reporter-dev-server" "2.12.0"
-    "@parcel/reporter-tracer" "2.12.0"
-    "@parcel/utils" "2.12.0"
+    "@parcel/config-default" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/core" "2.0.0-canary.1551+2a75be0cd"
+    "@parcel/diagnostic" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/events" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/feature-flags" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/fs" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/logger" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/package-manager" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/reporter-cli" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/reporter-dev-server" "2.0.0-canary.1553+2a75be0cd"
+    "@parcel/reporter-tracer" "2.12.1-canary.3176+2a75be0cd"
+    "@parcel/utils" "2.0.0-canary.1553+2a75be0cd"
     chalk "^4.1.0"
     commander "^7.0.0"
     get-port "^4.2.0"
@@ -5731,16 +5733,8 @@ which@^2.0.1:
   dependencies:
     isexe "^2.0.0"
 
-"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0":
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
-  integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
-  dependencies:
-    ansi-styles "^4.0.0"
-    string-width "^4.1.0"
-    strip-ansi "^6.0.0"
-
-wrap-ansi@^7.0.0:
+"wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
